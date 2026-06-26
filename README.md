@@ -58,7 +58,7 @@ VotaSENA es una plataforma web diseñada para garantizar procesos electorales tr
 * Django
 * HTML5
 * CSS3
-* SQLite (desarrollo)
+* PostgresSQL
 * Bootstrap (opcional)
 
 ---
@@ -144,7 +144,6 @@ VotaSENA/
 │               └── styles.css
 │
 ├── manage.py
-├── db.sqlite3
 └── README.md
 ```
 
